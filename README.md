@@ -11,10 +11,9 @@
   - *Develop website front-end (React) based on UX/UI design draft.*
   - AI-Powered ME for my Web3 Social Network.
 
-- ***opSwap*** - [https://opswap.io](https://opswap.io) [2023]
+- ***VolaARK*** - [https://volaark.io](https://volaark.io) [2023]
   - **Full-stack developer**
-  - *Develop website front-end (React) based on UX/UI design draft, Develop Rest API (Golang) based on requirement documents.*
-  - A decentralized exchange based on the opBNB Protocol.
+  - *Develop website front-end (React) based on UX/UI design draft.*
 
 - ***Ethscriptions Exchange*** [2023]
   - **Frontend developer**
@@ -30,11 +29,6 @@
   - **Co-founder, Frontend developer**
   - *Develop website front-end (Vue) based on UX/UI design draft.*
   - One of the first organizations to support when the new coronavirus broke out in Wuhan.
-  
-- ***NFTPOP*** - [https://nftpop.co](https://nftpop.co) [2023]
-  - **Full-stack developer**
-  - *Develop website front-end (React) based on UX/UI design draft, Develop Rest API (Golang+Python) based on requirement documents.*
-  - A platform that allows users to create and sell NFTs.
   
 - ***Parami Foundation*** - [https://app.parami.io](https://app.parami.io) [2021 - 2022]
   - **Frontend developer**
