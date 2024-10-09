@@ -117,9 +117,9 @@
 
 ## 📱 **PHONE**
 
-[![](https://img.shields.io/badge/iPhone%2015%20Pro%20Max-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/iphone-15-pro/)
-[![](https://img.shields.io/badge/Samsung%20S23-2E77BC?style=for-the-badge&logo=android&logoColor=white)](https://www.samsung.com/us/app/mobile/galaxy-s23-5g/)
-[![](https://img.shields.io/badge/Samsung%20S8-2E77BC?style=for-the-badge&logo=android&logoColor=white)](https://www.samsung.com/us/app/mobile/)
+[![](https://img.shields.io/badge/iPhone%2016%20Pro%20Max-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/iphone-16-pro/)
+[![](https://img.shields.io/badge/Samsung%20S24-2E77BC?style=for-the-badge&logo=android&logoColor=white)](https://www.samsung.com/us/app/mobile/galaxy-s24-5g/)
+[![](https://img.shields.io/badge/Samsung%20Z%20Flip6-2E77BC?style=for-the-badge&logo=android&logoColor=white)](https://www.samsung.com/jp/smartphones/galaxy-z-flip6)
 
 ## 🎮 **GAMES**
 
@@ -131,7 +131,7 @@
 
 ## 🍎 **APPLE**
 
-[![](https://img.shields.io/badge/iPhone%2015%20Pro%20Max-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/iphone-15-pro/)
+[![](https://img.shields.io/badge/iPhone%2016%20Pro%20Max-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/iphone-16-pro/)
 [![](https://img.shields.io/badge/iPhone%20Xs-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/iphone)
 [![](https://img.shields.io/badge/Macbook%20Pro%2016%20(M2%20Max)-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/mac)
 [![](https://img.shields.io/badge/iPad%20Mini%206-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/ipad)
@@ -145,7 +145,7 @@
 - [![](https://img.shields.io/badge/Gmail-i@rua.moe-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i@rua.moe)
 - [![](https://img.shields.io/badge/website-https://rua.moe-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rua.moe)
 - [![](https://img.shields.io/badge/LinkedIn-hikaruchang-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hikaruchang/)
-- [![](https://img.shields.io/badge/Twitter-_hikaruchang_-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_hikaruchang_)
+- [![](https://img.shields.io/badge/X-hikaruchang-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/_hikaruchang_)
 
 ---
 
