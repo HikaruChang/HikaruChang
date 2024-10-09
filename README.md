@@ -106,7 +106,7 @@
 
 ## 💻 **SYSTEM AND IDE**
 
-[![](https://img.shields.io/badge/macOS%20Ventura-292e33?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/big-sur/)
+[![](https://img.shields.io/badge/macOS%20Sequoia-292e33?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/sequoia/)
 [![](https://img.shields.io/badge/Windows%2011-4e9eee?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/windows-11)
 [![](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
