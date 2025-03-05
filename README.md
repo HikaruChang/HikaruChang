@@ -1,10 +1,19 @@
 <p align="center"><img src="logo.svg" width="30%" /></p>
 
->人類社会のすべての構成員の固有の尊厳と平等で譲ることのできない権利とを承認することは、世界における自由、正義及び平和の基礎であるので。
+>神は乗り越えられる試練しか与えない。
 
 # Hi 👋, I'm Hikaru
 
 ## 🕰 **PAST PROJECTS**
+
+- ***GamerBoom*** - [https://gamerboom.org](https://gamerboom.org) [2025]
+  - **Frontend developer**
+  - *Develop website front-end (React) based on UX/UI design draft.*
+  - A Portal Empowering Real Gamers
+
+- ***TONARK*** - [https://app.tonark.io](https://app.tonark.io) [2024]
+  - **Full-stack developer**
+  - *Develop website front-end (React) based on UX/UI design draft.*
 
 - ***AIME*** - [https://app.aime.bot](https://app.aime.bot) [2023]
   - **Frontend developer**
@@ -106,8 +115,8 @@
 
 ## 💻 **SYSTEM AND IDE**
 
-[![](https://img.shields.io/badge/macOS%20Sequoia-292e33?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos/sequoia/)
-[![](https://img.shields.io/badge/Windows%2011-4e9eee?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows/windows-11)
+[![](https://img.shields.io/badge/macOS%20Sequoia-292e33?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos)
+[![](https://img.shields.io/badge/Windows%2011-4e9eee?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
@@ -119,7 +128,7 @@
 
 [![](https://img.shields.io/badge/iPhone%2016%20Pro%20Max-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/iphone-16-pro/)
 [![](https://img.shields.io/badge/Samsung%20S24-2E77BC?style=for-the-badge&logo=android&logoColor=white)](https://www.samsung.com/us/app/mobile/galaxy-s24-5g/)
-[![](https://img.shields.io/badge/Samsung%20Z%20Flip6-2E77BC?style=for-the-badge&logo=android&logoColor=white)](https://www.samsung.com/jp/smartphones/galaxy-z-flip6)
+[![](https://img.shields.io/badge/Samsung%20Z%20Flip6-2E77BC?style=for-the-badge&logo=android&logoColor=white)](https://www.samsung.com/jp/smartphones/galaxy-z-fold6)
 
 ## 🎮 **GAMES**
 
@@ -136,7 +145,7 @@
 [![](https://img.shields.io/badge/Macbook%20Pro%2016%20(M2%20Max)-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/mac)
 [![](https://img.shields.io/badge/iPad%20Mini%206-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/ipad)
 [![](https://img.shields.io/badge/AirPods%20Pro%20(2022)-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/airpods)
-[![](https://img.shields.io/badge/Apple%20Watch%20Series%209-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/watch)
+[![](https://img.shields.io/badge/Apple%20Watch%20Ultra%202-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/watch)
 [![](https://img.shields.io/badge/Mac%20Pro%20(2019)-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/mac)
 [![](https://img.shields.io/badge/Homepod%20(1ST)-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/homepod)
 
