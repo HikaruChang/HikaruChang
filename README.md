@@ -6,6 +6,11 @@
 
 ## 🕰 **PAST PROJECTS**
 
+- ***VN*** - [https://vn.com](https://vn.com) [2025]
+  - **Frontend developer**
+  - *Develop website front-end (React) based on UX/UI design draft.*
+  - A Web3 search engine under the KAI Exchange (TOK).
+
 - ***GamerBoom*** - [https://gamerboom.org](https://gamerboom.org) [2025]
   - **Frontend developer**
   - *Develop website front-end (React) based on UX/UI design draft.*
