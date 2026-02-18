@@ -143,7 +143,7 @@
 [![](https://img.shields.io/badge/iPhone%2017%20Pro%20Max-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/iphone-17-pro/)
 [![](https://img.shields.io/badge/iPhone%20Xs-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/iphone)
 [![](https://img.shields.io/badge/Macbook%20Pro%2016%20(M2%20Max)-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/mac)
-[![](https://img.shields.io/badge/iPad%20Mini%206-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/ipad)
+[![](https://img.shields.io/badge/iPad%20Air%207-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/ipad)
 [![](https://img.shields.io/badge/AirPods%20Pro%20(2025)-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/airpods)
 [![](https://img.shields.io/badge/Apple%20Watch%20Ultra%202-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/watch)
 [![](https://img.shields.io/badge/Mac%20Pro%20(2019)-999999?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/mac)
